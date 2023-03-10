@@ -1,0 +1,1 @@
+sELECT *from Categories
